@@ -1,4 +1,6 @@
 good
 say
+bye:wq
+
 
 
